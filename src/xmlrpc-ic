@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+''' 
+XML-RPC IC application entry point.
+
+Created on Oct 1, 2011
+
+@author: Bruno P. Kinoshita - http://www.kinoshita.eti.br
+@since: 0.1
+'''
+import xmlrpcic
+
+xmlrpcic.main()
